@@ -140,7 +140,7 @@
             $tax = $gp * 0.05;
         }
 
-        $netpay = $gp + $basic - $tax;
+        $netpay = $gp + $bonus - $tax;
 
 
 ?>
